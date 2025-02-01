@@ -42,16 +42,16 @@
 ###
 
 <div align="left">
-  <a href="https://app.hackthebox.com/profile/2087281" target="_blank">
+  <a href="https://app.hackthebox.com/profile/2087281" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HACKTHEBOX-green?style=for-the-badge&logo=hackthebox" height="35" alt="hackthebox logo" />
   </a>
-  <a href="https://discord.com/users/.whare1" target="_blank">
+  <a href="https://discord.com/users/.whare1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="https://twitter.com/eswhare1" target="_blank">
+  <a href="https://twitter.com/eswhare1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=x" height="35" alt="twitter logo" />
   </a>
-  <a href="https://tryhackme.com/p/whare1" target="_blank">
+  <a href="https://tryhackme.com/p/whare1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TRYHACKME-red?style=for-the-badge&logo=tryhackme" height="35" alt="tryhackme logo" />
   </a>
 </div>
