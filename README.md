@@ -16,7 +16,7 @@
 
 
 - 📝 Posting writeups and notes [**here**](https://whare1.github.io)
-- 🔭 I’m currently preparing for the **OSCP**
+- 🔭 I’m currently preparing for the **CPTS**
 
 
 ###
