@@ -15,8 +15,8 @@
 ###
 
 
-- 📝 Posting writeups and notes [**here**](https://whare1.github.io)
-- 🔭 I’m currently preparing for the **CPTS**
+- 💀 Netrunner's project [**here**](https://www.netrunners.in/)*
+- 📝 Posting writeups and notes [**here**](https://whare1.netrunners.in)*
 
 
 ###
