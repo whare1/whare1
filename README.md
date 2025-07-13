@@ -15,8 +15,8 @@
 ###
 
 
-- 💀 Netrunner's project [**here**](https://www.netrunners.in/)*
-- 📝 Posting writeups and notes [**here**](https://whare1.netrunners.in)*
+- 💀 Netrunner's [**project**](https://www.netrunners.in/)
+- 📝 Posting writeups and notes [**here**](https://whare1.netrunners.in)
 
 
 ###
